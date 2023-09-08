@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/regin/UEproject/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/regin/UEproject/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/regin/UEproject/MyProject/Content/blueprint/BP_EnemyAI.uasset",
+				"C:/Users/regin/UEproject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KW/5FZUJ9U2CWZFDV94UJDBF5.uasset",
+				"C:/Users/regin/UEproject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2G/M5EUNQXM44SY0AI0O84ZUK.uasset",
+				"C:/Users/regin/UEproject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/9G/07Y3RGGRM6UEQ3REWDI5MW.uasset",
+				"C:/Users/regin/UEproject/MyProject/Content/Animations/NewBlendSpace.uasset",
+				"C:/Users/regin/UEproject/MyProject/Content/blueprint/BPEnemyAI.uasset"
+			]
+		}
+	]
+}
